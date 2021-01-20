@@ -36,3 +36,6 @@ bgside2.pdn
 layout.png
 miss.png
 yal.png
+node_modules
+.eslintcache
+.DS_Store
